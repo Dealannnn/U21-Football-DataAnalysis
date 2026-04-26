@@ -37,6 +37,6 @@ Pour faire tourner ce projet en local sur votre machine :
    pip install pandas numpy matplotlib seaborn jupyter
 
 3. **Lancer le Notebook :**
-```bash
+   ```bash
    jupyter notebook
 
