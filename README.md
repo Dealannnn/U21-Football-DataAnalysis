@@ -32,6 +32,11 @@ Pour faire tourner ce projet en local sur votre machine :
    ```bash
    git clone [https://github.com/Dealannnn/U21-Football-DataAnalysis.git](https://github.com/Dealannnn/U21-Football-DataAnalysis.git)
    cd U21-Football-DataAnalysis
-2. **Installer les dépendances requises**
-```bash
+2. Installer les dépendances requises
+   ```bash
    pip install pandas numpy matplotlib seaborn jupyter
+
+3. **Lancer le Notebook :**
+```bash
+   jupyter notebook
+
